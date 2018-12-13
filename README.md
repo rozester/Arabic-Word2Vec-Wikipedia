@@ -28,3 +28,7 @@ Thanks to Abed Khooli for his function (ArTokenizer) was very helpful in Arabic 
 
 https://github.com/abedkhooli
 
+
+Watch it on action
+
+[![Arabic Word Embeddings Word2vec](http://img.youtube.com/vi/EAv2t6DDqB4/0.jpg)](https://www.youtube.com/watch?v=EAv2t6DDqB4 "Arabic Word Embeddings Word2vec")
